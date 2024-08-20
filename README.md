@@ -66,6 +66,8 @@ Alter the parameters for the renewable energy generation, storage, and usage sys
 ### Simulation Output
 This simulation demonstrates a nanogrid controller that can adapt to a variety of different weather + energy generation & usage conditions. All of the variables are alterable, and you can see the performance of the Nanogrids based on the variables you change.
   
+## Hardware
+You can transform the Matlab and Simulink Code into C/C++ for use in RTOS/PLCs. Here's a link to help get you started: https://www.mathworks.com/help/ecoder/gs/generate-code-by-using-embedded-coder-quick-start.html.
 
 ## Contributing
 

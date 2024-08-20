@@ -47,6 +47,7 @@ In conclusion, the controller and the associated systems represent a comprehensi
 2. Open MATLAB and navigate to the cloned directory.
 
 ## Usage
+<img width="942" alt="Screenshot 2024-08-19 at 7 50 03 PM" src="https://github.com/user-attachments/assets/9d6ada7f-985b-4b2b-b4c2-a6a00a664d02">
 
 ### MATLAB Live Script
 - Open `LPDs_single_agent_tech.mlx` in MATLAB.
@@ -55,6 +56,10 @@ In conclusion, the controller and the associated systems represent a comprehensi
 ### Simulink Model
 - Open `LPDs_single_agent_tech.slx` in MATLAB Simulink.
 - Run the simulation to observe the behavior of the single agent technology.
+
+<img width="886" alt="Screenshot 2024-08-19 at 7 49 15 PM" src="https://github.com/user-attachments/assets/b815cc1a-fbd1-4c98-8366-b411f7994a01">
+
+Alter the parameters for the renewable energy generation, storage, and usage systems to your liking. 
 
 ## Results
 

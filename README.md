@@ -59,7 +59,7 @@ In conclusion, the controller and the associated systems represent a comprehensi
 
 <img width="886" alt="Screenshot 2024-08-19 at 7 49 15 PM" src="https://github.com/user-attachments/assets/b815cc1a-fbd1-4c98-8366-b411f7994a01">
 
-Alter the parameters for the renewable energy generation, storage, and usage systems to your liking. 
+Input the parameters for the renewable energy generation, storage, and usage systems to your liking. 
 
 ## Results
 

@@ -69,6 +69,8 @@ This simulation demonstrates a nanogrid controller that can adapt to a variety o
 ## Hardware
 You can transform the Matlab and Simulink Code into C/C++ for use in RTOS/PLCs. Here's a link to help get you started: https://www.mathworks.com/help/ecoder/gs/generate-code-by-using-embedded-coder-quick-start.html.
 
+You'll have to put in your correct parameters for this to work.
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.

@@ -1,0 +1,6 @@
+﻿-I"D:\Freelancing Data 💰\Projects\Distributed Control of Microgrid\LPD_nano_grids_MATLAB_Simulink\nanogrid\LPD_single_agent\LPD_C_Coder_files"
+-I"D:\Freelancing Data 💰\Projects\Distributed Control of Microgrid\LPD_nano_grids_MATLAB_Simulink\nanogrid\LPD_single_agent\LPD_C_Coder_files\LPDs_single_agent_tech_grt_rtw"
+-I"C:\Program Files\MATLAB\R2023b\extern\include"
+-I"C:\Program Files\MATLAB\R2023b\simulink\include"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src\ext_mode\common"
